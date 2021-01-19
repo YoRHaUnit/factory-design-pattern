@@ -1,0 +1,7 @@
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\obj\Debug\Factory.csprojAssemblyReference.cache
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\obj\Debug\Factory.csproj.CoreCompileInputs.cache
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\bin\Debug\Logs.exe.config
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\bin\Debug\Logs.exe
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\bin\Debug\Logs.pdb
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\obj\Debug\Logs.exe
+C:\Users\remig\Desktop\Cours\I4\Design Pattern\Controle GRALL Rémi\Logs\Logs\obj\Debug\Logs.pdb
